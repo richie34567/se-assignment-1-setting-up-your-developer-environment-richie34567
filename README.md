@@ -44,6 +44,10 @@ This assignment aims to familiarize you with the tools and configurations necess
 #Submission:
 Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
 
+Here are my answers to the assignment.
+
+https://docs.google.com/document/d/1aVtNpZkU97K-4Ihqdjz0AwLFOq62pLq4swCdb1bl_Zs/edit?usp=sharing
+
 #Evaluation Criteria:**
 - Completeness and accuracy of setup documentation.
 - Effectiveness of version control implementation.
